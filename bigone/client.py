@@ -8,7 +8,7 @@ from .exceptions import BigoneAPIException, BigoneRequestException
 
 class Client(object):
 
-    API_URL = 'https://api.big.one'
+    API_URL = 'https://api.b1.run'
 
     SIDE_BID = 'BID'
     SIDE_ASK = 'ASK'
